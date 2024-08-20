@@ -106,14 +106,17 @@ h5 {
     margin-bottom: 20px;
 }
 
-footer {
+footer{
     text-align: center;
     background: url(/imagens/bg.jpg);
-    padding: 20px 0;
-    color: white;
-    font-size: 16px;
-    border-top: 4px solid #ffffff;
-}
+    padding: 40px 0;
+    
+ }
+ .copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0 0;
+ }
 
 img {
     width: 100%;
